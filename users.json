@@ -1,0 +1,22 @@
+[
+  {
+    "email": "test@test.com",
+    "password": "9acc7f958d0f088121ef9f947183fe9260abff4877a57ccc9bc2f62d7d5ec632e18729508a7097d40f11b6d3d918bc13d2ae1c5b97afe0cfb9140d85b0ed11ee.cf2419a9dc4cee27",
+    "id": "543e61c2"
+  },
+  {
+    "email": "test2@test.com",
+    "password": "b8320e04f67062cb66010e46aced036ddd96ac31faee5a8eb64d00ce213f4d9869bb9d1eab3faca84128f655a1f6b07300259b4907d468b5e54bba2dfa9e076a.45ff2c4a73ec320a",
+    "id": "7d9e9ab1"
+  },
+  {
+    "email": "test.test@test.com",
+    "password": "86d228acd8b7dc8e58ebbb8efe05be8d4c9df7311630b48d770854534d518ff8bb19002b0b5b6a88b3a8cd2dcf4bef1d4804678d893fdd93cc4ef9c99c787829.5053f5a161acad2e",
+    "id": "9a1abd22"
+  },
+  {
+    "email": "miyao@bjj.com",
+    "password": "ae1f0c539f64a03dc1a3f022a6ee911226f4a14c87aaaea832c81db375dd5da9b80c7062d955d5618bfe5b16e147d4d6e6eb592412825b35307a50dab6046574.93399ee1f8ace615",
+    "id": "bb03c75d"
+  }
+]
