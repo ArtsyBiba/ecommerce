@@ -12,7 +12,7 @@ app.use(express.static('public'));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(
 	cookieSession({
-		keys : [ 'blahblahbla1238520983' ]
+		keys: ['blahblahbla1238520983']
 	})
 );
 app.use(authRouter);
@@ -20,6 +20,6 @@ app.use(adminProductsRouter);
 app.use(productsRouter);
 app.use(cartsRouter);
 
-app.listen(3000, () => {
+app.listen(process.env.PORT || 3000, () => {
 	console.log('listening');
 });
